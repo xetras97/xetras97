@@ -21,3 +21,4 @@ Manejo con soltura HTML5 y CSS3, mientras me encuentro perfeccionando mis conoci
 ### Contacto
 Mail: estinaon@gmail.com
 Instagram: [@EstiNaon](https://www.instagram.com/estinaon/ "@EstiNaon")
+Linkedin: [Esteban Naón](www.linkedin.com/in/esteban-naon "Esteban Naón")
