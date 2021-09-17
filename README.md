@@ -10,6 +10,7 @@ Manejo con soltura HTML5 y CSS3, mientras me encuentro perfeccionando mis conoci
 ### Conocimientos
 - HTML5.
 - CSS3.
+- Bootstrap 5.
 - JavaScript (Intermedio).
 - GIT.
 - GitHub.
