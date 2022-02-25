@@ -12,6 +12,7 @@ Manejo con soltura HTML5 y CSS3, JavaScript, mientras incursiono en NodeJS, Expr
 - CSS3.
 - Bootstrap 5.
 - JavaScript.
+- React
 - GIT.
 - GitHub.
 
